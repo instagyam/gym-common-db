@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Day 1 - Beginner Full Body",
+    "data": [
+      {
+        "number_of_times": "20",
+        "time_of_workout": "20 min",
+        "video_url": "https://example.com/videos/fullbody-beginner-day1"
+      },
+      {
+        "number_of_times": "3 sets",
+        "time_of_workout": "30 min",
+        "video_url": "https://example.com/videos/cool-down-day1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Day 2 - Cardio Blast",
+    "data": [
+      {
+        "number_of_times": "15 intervals",
+        "time_of_workout": "25 min",
+        "video_url": "https://example.com/videos/hiit-cardio-day2"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Day 3 - Strength Training",
+    "data": [
+      {
+        "number_of_times": "12 reps x 4 sets",
+        "time_of_workout": "45 min",
+        "video_url": "https://example.com/videos/strength-upperbody-day3"
+      },
+      {
+        "number_of_times": "10 min",
+        "time_of_workout": "10 min",
+        "video_url": "https://example.com/videos/stretching-day3"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Day 4 - Yoga Flow",
+    "data": [
+      {
+        "number_of_times": "1 session",
+        "time_of_workout": "40 min",
+        "video_url": "https://example.com/videos/yoga-vinyasa-day4"
+      }
+    ]
+  }
+]
