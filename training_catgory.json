@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "bg_image": "https://example.com/images/bg1.jpg",
+    "name": "First Item"
+  },
+  {
+    "id": 2,
+    "bg_image": "https://example.com/images/bg2.jpg",
+    "name": "Second Item"
+  },
+  {
+    "id": 3,
+    "bg_image": "https://example.com/images/bg3.jpg",
+    "name": "Third Item"
+  },
+  {
+    "id": 4,
+    "bg_image": "https://example.com/images/bg4.jpg",
+    "name": "Fourth Item"
+  }
+]
