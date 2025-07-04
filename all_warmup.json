@@ -6,12 +6,12 @@
       {
         "number_of_times": "10 reps each",
         "time_of_workout": "5 min",
-        "video_url": "https://example.com/videos/warmup-neck-rolls"
+        "video_url": "https://youtu.be/c0VxUFHdYzs?si=8EdINJ3yIXhESaPJ"
       },
       {
         "number_of_times": "30 sec hold",
         "time_of_workout": "2 min",
-        "video_url": "https://example.com/videos/warmup-arm-circles"
+        "video_url": "https://youtu.be/c0VxUFHdYzs?si=8EdINJ3yIXhESaPJ"
       }
     ]
   },
@@ -22,12 +22,12 @@
       {
         "number_of_times": "12 reps each leg",
         "time_of_workout": "3 min",
-        "video_url": "https://example.com/videos/warmup-leg-swings"
+        "video_url": "https://youtu.be/c0VxUFHdYzs?si=8EdINJ3yIXhESaPJ"
       },
       {
         "number_of_times": "10 reps each",
         "time_of_workout": "2 min",
-        "video_url": "https://example.com/videos/warmup-hip-circles"
+        "video_url": "https://youtu.be/c0VxUFHdYzs?si=8EdINJ3yIXhESaPJ"
       }
     ]
   }
