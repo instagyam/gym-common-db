@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "bg_image": "https://example.com/images/bg1.jpg",
+    "bg_image": "https://firebasestorage.googleapis.com/v0/b/ezygo-student.appspot.com/o/logan-weaver-lgnwvr-U-Ui-eZvbrc-unsplash%201.png?alt=media&token=aba78eae-783c-4017-a922-ca9664da2ecc",
     "name": "First Item"
   },
   {
     "id": 2,
-    "bg_image": "https://example.com/images/bg2.jpg",
+    "bg_image": "https://firebasestorage.googleapis.com/v0/b/ezygo-student.appspot.com/o/logan-weaver-lgnwvr-U-Ui-eZvbrc-unsplash%201.png?alt=media&token=aba78eae-783c-4017-a922-ca9664da2ecc",
     "name": "Second Item"
   },
   {
     "id": 3,
-    "bg_image": "https://example.com/images/bg3.jpg",
+    "bg_image": "https://firebasestorage.googleapis.com/v0/b/ezygo-student.appspot.com/o/logan-weaver-lgnwvr-U-Ui-eZvbrc-unsplash%201.png?alt=media&token=aba78eae-783c-4017-a922-ca9664da2ecc",
     "name": "Third Item"
   },
   {
     "id": 4,
-    "bg_image": "https://example.com/images/bg4.jpg",
+    "bg_image": "hhttps://firebasestorage.googleapis.com/v0/b/ezygo-student.appspot.com/o/logan-weaver-lgnwvr-U-Ui-eZvbrc-unsplash%201.png?alt=media&token=aba78eae-783c-4017-a922-ca9664da2ecc",
     "name": "Fourth Item"
   }
 ]
